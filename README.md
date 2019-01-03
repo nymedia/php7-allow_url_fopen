@@ -1,0 +1,1 @@
+# php7-allow_url_fopen
